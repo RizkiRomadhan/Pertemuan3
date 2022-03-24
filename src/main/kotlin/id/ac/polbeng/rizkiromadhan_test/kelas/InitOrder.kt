@@ -11,5 +11,5 @@ class InitOrder(name: String) {
     }
 }
 fun main(){
-    val initOrder = InitOrder("RPL")
+    val initOrder = InitOrder("Rekayasa Perangkat Lunak")
 }
